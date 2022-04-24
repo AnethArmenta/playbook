@@ -3,10 +3,10 @@
 
 Proyectos desarrollados en la semana 3:
 
-| Proyecto | Práctica | Link al repo |
-| ------------- |:-------------:| -----:|
-|`my_launchx_app`|1|[Link al repo](https://github.com/AnethArmenta/Proyecto_1)|
-|`spiderverse`|2|[Link al repo](https://github.com/AnethArmenta/Proyecto_2)|
-|`twitter`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+| Ejercicio | Link al repo |
+| -------- |:-----:|
+|`Ejercicio`|[Link al repo](https://github.com/AnethArmenta/Proyecto_1)|
+|`spiderverse`|[Link al repo](https://github.com/AnethArmenta/Proyecto_2)|
+|`twitter`|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 
 
